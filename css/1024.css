@@ -1,0 +1,17 @@
+@media screen and (max-width:1024px){    
+    .nav-div{
+        padding:30px 50px 10px 50px;
+    }
+    .nav-bars{
+        display:flex;
+        gap:30px;
+        padding:25px 20px 10px 40px;
+    }
+    
+    
+    .c-container{
+      
+        padding-left:10px;
+    }
+   
+}

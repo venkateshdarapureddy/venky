@@ -1,0 +1,28 @@
+@media screen and (min-width:1024px)
+{
+  .c-container {
+    display:flex;
+    flex-direction: column;
+    padding-left: 150px;
+    padding-top: 199px;
+  }
+  .c-hero-head{
+    padding-bottom:30px;
+    padding-left:57px;
+  }
+  .c-her-text{
+    padding-left:54px;
+    padding-bottom:16px;
+  }
+  .c-logo img{
+    padding-left:30px;
+  }
+  .c-logo{
+    padding-left:102px;
+    padding-top: 151px;
+
+  }
+  .section-logo{
+    padding-top:81px;
+  }
+}
